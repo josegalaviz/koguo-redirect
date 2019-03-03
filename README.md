@@ -1,0 +1,2 @@
+# koguo-redirect
+Koguo redirect
